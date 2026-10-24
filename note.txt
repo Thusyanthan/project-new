@@ -1,2 +1,0 @@
-for terminal - ctrl + j
-git init
